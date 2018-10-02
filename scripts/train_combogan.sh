@@ -1,4 +1,4 @@
-python train.py  \
+python3 train.py  \
     --dataroot ./datasets/alps  \
     --name alps_combogan  \
     --n_domains 4  \
