@@ -1,4 +1,4 @@
-python test.py  \
+python3 test.py  \
     --phase test  \
     --dataroot ./datasets/alps  \
     --name alps_combogan  \
